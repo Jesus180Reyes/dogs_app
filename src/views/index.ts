@@ -1,0 +1,1 @@
+export { DogView } from './DogView';

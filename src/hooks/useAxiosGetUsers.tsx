@@ -1,4 +1,4 @@
-import userApi from '../api/userApi';
+import {userApi} from '../api';
 import { UserResponse,UsersResponse } from '../interfaces';
 import { useEffect, useState } from 'react';
 import Swal from 'sweetalert2';

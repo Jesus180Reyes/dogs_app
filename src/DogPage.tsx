@@ -1,4 +1,4 @@
-import { DogView } from "./views/DogView"
+import { DogView } from "./views"
 
 export const DogPage = () => {
      

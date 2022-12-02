@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { DogResponse } from '../interfaces/dogResponse';
+import { DogResponse } from '../interfaces';
 
 interface Props {
     dogs: DogResponse,

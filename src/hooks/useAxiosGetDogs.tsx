@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import {DogApi} from "../api/";
+import {DogApi} from "../api";
 import { DogResponse } from "../interfaces";
 
 export const useAxiosGetDogs = () => {

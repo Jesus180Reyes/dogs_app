@@ -1,4 +1,4 @@
-import { DogImage } from "../components/DogImage";
+import { DogImage } from "../components";
 import { useAxiosGetDogs } from "../hooks";
 
 export const DogView = () => {

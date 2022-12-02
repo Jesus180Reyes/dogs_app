@@ -1,5 +1,5 @@
-import { timeSince } from './helpers/timeSince';
-import { useAxiosGetUsers } from './hooks/useAxiosGetUsers';
+import { timeSince } from './helpers';
+import { useAxiosGetUsers } from './hooks';
 
 export const  App = ()=>  {  
   //   }
